@@ -16,6 +16,7 @@
   "dependencies": {},
   "scripts": {
     "storybook": "start-storybook -p 6006",
+    "storybook:host": "start-storybook -h my-host.com",
     "build-storybook": "build-storybook"
   }
 }
